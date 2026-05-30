@@ -2,7 +2,7 @@
 
 > Estimate, analyze, and optimize the energy footprint of your AI model training and inference workloads — powered by Claude AI for intelligent recommendations.
 
-![WattWise AI Screenshot](./docs/screenshot.png)
+![WattWise AI Screenshot](./docs/wattai.png)
 
 ---
 
@@ -92,7 +92,7 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:5173** 🎉
+Open **https://wattwise-ai-frontend.onrender.com** 🎉
 
 ---
 
